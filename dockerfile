@@ -1,4 +1,4 @@
-# Use the latest Alpine Linux image as the base
+# Use the official Alpine 3.19 Linux image as the base
 FROM alpine:3.19
 
 # Update the package lists
