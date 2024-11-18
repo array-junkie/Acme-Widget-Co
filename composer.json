@@ -1,0 +1,20 @@
+{
+    "name": "ali-ehsan/acme_app",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "AliEhsan\\AcmeApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "aliehsan",
+            "email": "aliehsan90@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+        "phpstan/phpstan": "^2.0",
+        "phpunit/phpunit": "^11.4"
+    }
+}
